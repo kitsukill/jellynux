@@ -7,6 +7,10 @@
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Gosto de maquiagens, chá, frio, homeoffice, mas amo muito minha área de atuação.
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jellynux&show_icons=true&theme=tokyonight&bg_color=D3D3D3&text_color=4B0082&title_color=8B008B&icon_color=4B0082)
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
