@@ -3,9 +3,9 @@
 - 🔭 Sou Líder de TI no Grupo BSF ...
 - 🌱 Estou estudando sobre Gerencia, Líderança, Segurança e Programação.
 - 👯 Estou sempre procurando por Networks
-- 💬 Estou disopível sempre para conversas inteligentes ...
+- 💬 Estou sempre  disponível para conversas inteligentes ...
 - 😄 Pronomes: Ele/Dele
-- ⚡ Fun fact: Gosto de maquiagens, chá, frio, homeoffice, mas amo muito minha área de atuação.
+- ⚡ Fun fact: Gosto chá, frio, homeoffice, mas amo muito minha área de atuação.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jellynux&show_icons=true&theme=tokyonight&bg_color=D3D3D3&text_color=4B0082&title_color=8B008B&icon_color=4B0082)
