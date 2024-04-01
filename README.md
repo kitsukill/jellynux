@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Gosto chá, frio, homeoffice, mas amo muito minha área de atuação.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jellynux&show_icons=true&theme=tokyonight&bg_color=D3D3D3&text_color=4B0082&title_color=8B008B&icon_color=4B0082)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitsukill&show_icons=true&theme=tokyonight&bg_color=D3D3D3&text_color=4B0082&title_color=8B008B&icon_color=4B0082)
  
 <div> 
   <a href="https://instagram.com/kitsukill" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
