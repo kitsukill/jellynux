@@ -1,5 +1,5 @@
 ### 𝓦𝓱𝓮𝓷 𝓪 𝓼𝓽𝓪𝓻 𝓭𝓲𝓮𝓼.★
-  ✞︎☠︎(´ཀ`)☠︎︎✞︎
+
 ⛧°｡⋆༺♱༻⋆｡°⛧
 
 - 🔭 Sou Líder de TI ...
@@ -8,7 +8,7 @@
 - 💬 Estou sempre  disponível para conversas inteligentes ...
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Gosto chá, frio, meus cachorrinhos, RPG de mesa, Guitarra e homeoffice, mas amo muito minha área de atuação.
-
+  ✞︎☠︎(´ཀ`)☠︎︎✞︎
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitsukill&show_icons=true&theme=tokyonight&bg_color=D3D3D3&text_color=4B0082&title_color=8B008B&icon_color=4B0082)
  
